@@ -1,0 +1,7 @@
+{
+  "base_url": "https://admin-demo.nopcommerce.com/",
+  "login": "admin@yourstore.com",
+  "password": "admin",
+  "browser_id": 1,
+  "base_api": "https://restful-booker.herokuapp.com"
+}

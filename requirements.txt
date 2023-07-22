@@ -1,0 +1,8 @@
+pytest
+selenium
+pytest-faker
+requests
+pytest-html
+pytest-html-reporter
+allure-pytest
+pytest-rerunfailures
